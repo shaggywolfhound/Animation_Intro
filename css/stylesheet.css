@@ -1,0 +1,12 @@
+body{
+/*  margin:0px 0px;*/
+  padding:0px 0px;
+}
+#intro {
+margin-right: 10px;
+/*border: 1px solid red;*/
+}
+
+canvas {
+background-color: black;
+}
